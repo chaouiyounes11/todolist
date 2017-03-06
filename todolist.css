@@ -1,0 +1,81 @@
+header
+{
+  font-weight: lighter;
+  font-weight: bolder;
+  font-size: xx-large;
+  font-family: fantasy;
+  border: 2px silver outset;
+  text-align: center;
+
+  margin: 0 15em 0 15em;
+}
+
+header:hover
+{
+  color: silver;
+}
+
+h2
+{
+  text-align: center;
+}
+
+.aside1
+{
+
+  font-weight: lighter;
+  font-weight: bolder;
+  font-size: xx-large;
+  font-family: fantasy;
+  border: 2px silver solid;
+  margin: auto;
+  margin-top: 2em;
+  margin-right: 35em;
+  width: 15em;
+  height: 10em;
+  background-color: rgba(0, 251, 117, 0.6);
+  
+}
+
+.aside2
+{
+  font-weight: lighter;
+  font-weight: bolder;
+  font-size: xx-large;
+  font-family: fantasy;
+  border: 2px silver solid;
+  width: 15em;
+  height: 8em;
+  margin: auto;
+  margin-top: 1em;
+  background-color: rgba(0, 251, 117, 0.6);
+}
+
+.aside3
+{
+  font-weight: lighter;
+  font-weight: bolder;
+  font-size: xx-large;
+  font-family: fantasy;
+  border: 2px silver solid;
+  width: 15em;
+  height: 8em;
+  margin-top: 1em;
+  margin-left: 24em;
+  background-color: rgba(0, 251, 117, 0.6);
+  padding-bottom: 1em;
+}
+
+ul
+{
+  list-style-type: none;
+
+}
+
+footer
+{
+  text-align: center;
+  font-family: fantasy;
+  margin-top: 3em;
+  border: 1em rgba(0, 251, 117, 0.6) inset;
+}
